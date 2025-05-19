@@ -9,7 +9,7 @@ This project processes an insurance claims dataset using **only core Python** (n
 Upload or place the file here:
 
 
-## ✅ What it does
+##  What it does
 
 - Cleans the data: handles `null`, `na`, missing values
 - Converts numeric fields like `CLAIM_AMOUNT`, `PAID_AMOUNT`, `PREMIUM_COLLECTED` to `float`
